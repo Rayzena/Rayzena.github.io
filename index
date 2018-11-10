@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>Matthew Thicc</title>
+<style>
+
+#main {
+text-align: center;
+font-size: 72px;
+position: relative;
+}
+
+p {
+font-size: 26px;
+position: relative;
+float: left;
+width: 75%;
+}
+
+#baby {
+position: relative;
+float: right;
+width: 20%;
+}
+
+</style>
+</head>
+<body>
+
+<h1 id="main">Life of Matthew</h1>
+<hr>
+<p>Matthew is super gay and does not deserve love of any kind. He should get cancer and die like the fat piece of dumb he is.</p>
+<img id="baby" Alt="Matthew as a Baby" src="https://drive.google.com/uc?export=download&id=10Paj6OMGrrZHoOYL1zPBS4ovQE-bnguL">
+
+</body>
+</html>
